@@ -1,4 +1,4 @@
-# 602-Project-
+# 602-Project
 
 Business Problem:
 The fierce competition for attracting and retaining customers online is forcing firms to employ creative techniques to improve customer experiences. Companies are increasingly required to evaluate customer evaluations on internet platforms such as Amazon in order to better understand their customers. Companies may use Amazon reviews to do sentiment analysis to learn more about their customers.
