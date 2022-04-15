@@ -6,6 +6,8 @@ The fierce competition for attracting and retaining customers online is forcing 
 Aim
 The project aims in predicting the sentiment based on Amazon reviews about cellphones and their accessories.
 
+Dataset Link: http://deepyeti.ucsd.edu/jianmo/amazon/categoryFilesSmall/Cell_Phones_and_Accessories_5.json.gz
+
 This dataset has 12 features and 1128437 rows. Each row corresponds to a review about a cell phone or its related accessories.
 Below is the information about each feature - Name, Number of Non Null Values, Datatype separated by commas.
 
