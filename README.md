@@ -12,7 +12,8 @@ Below is the information about each feature - Name, Number of Non Null Values, D
 Column, Non-Null, Dtype         
 overall, 1128437, int64         
 verified, 1128437, bool          
-reviewTime, 1128437, datetime64[ns]
+reviewTime, 1128437, datetime64
+
 reviewerID, 1128437, object        
 asin, 1128437, object        
 style, 605241, object        
